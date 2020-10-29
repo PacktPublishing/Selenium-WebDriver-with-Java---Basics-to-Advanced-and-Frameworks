@@ -1,0 +1,10 @@
+Tools for identifying elements :
+
+Installing Firebug, Firepath       – Firefox
+Chrome Inspector                   GoogleChrome
+F 12                               Internet Explorer
+
+Firebug Download Links
+https://addons.mozilla.org/en-US/firefox/addon/firebug/
+FirePath download
+https://addons.mozilla.org/en-US/firefox/addon/firepath/

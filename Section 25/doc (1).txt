@@ -1,0 +1,2 @@
+You can learn more about Log4j from below link
+http://tutorialspointexamples.com/log4j-tutorial-beginners-eclipse/
