@@ -1,0 +1,10 @@
+Important Note
+In this complete Section, I have taken  external Flight booking website as example to demonstrate the topics.
+
+But for you  to practice along with videos, I highly recommend to use below link  as it has same UI and objects of what I taught in the videos.
+
+https://rahulshettyacademy.com/dropdownsPractise/
+
+
+
+Please avoid using Production Websites

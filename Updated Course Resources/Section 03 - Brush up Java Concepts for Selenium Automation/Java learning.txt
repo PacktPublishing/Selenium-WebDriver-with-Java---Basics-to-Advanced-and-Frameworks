@@ -1,0 +1,13 @@
+Java learning
+
+We have seen some important core java basic concepts in this section.
+
+
+
+But Still Hungry on Learning Java in Depth??
+
+You can find them in the sections 32,33,34 of this course. 
+
+
+
+But my  personal advice is to Continue with the lectures  in order to complete Selenium first, and then learn java on your own pace :)

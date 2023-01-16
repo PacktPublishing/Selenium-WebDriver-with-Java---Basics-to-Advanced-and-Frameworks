@@ -1,0 +1,47 @@
+Reference Material for AutoIT
+Automating window Controls with Selenium:
+
+
+
+· Handling Window Authentication Pop Up
+http://Username:Password@SiteURL
+
+· Driver.get();
+
+· Handling File Upload from Windows using AutoIT
+
+
+What is AutoIT
+Install AutoIT
+AutoIT Scripting
+Integrating AutoIT with Selenium
+
+
+
+//Shift focus to the file upload windows
+
+//set text/path into file name edit box
+
+//click open to upload file
+
+
+
+Au3info- record window component objects
+
+Build Script -scite.exe
+
+Save it- .au3 extenstion
+
+Convert file into .exe by compiling .au3 file
+
+Call .exe file with Runtime class in java into your selenium tests
+
+
+
+
+
+ControlFocus("Open","","Edit1")
+
+ControlSetText("Open","","Edit1","C:\Users\rahul\Documents\check\visit.pdf")
+
+ControlClick("Open","","Button1")

@@ -1,0 +1,2 @@
+Important Note on OS compatibility
+There are no differences in setup wise for (Selenium,Java)  in WIndows and MAC. Both OS have same set of instructions for configuration. The only difference we have is setting JAVA_HOME which we have clearly seen on how to do that in both Windows and MAC. Apart from this everything is same!   Cheers!

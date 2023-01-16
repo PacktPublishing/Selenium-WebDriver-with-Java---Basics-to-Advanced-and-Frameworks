@@ -1,3 +1,0 @@
-You can find more examples from below link
-
-https://techblog.polteq.com/en/perform-a-sequence-of-actions-with-selenium-webdriver/

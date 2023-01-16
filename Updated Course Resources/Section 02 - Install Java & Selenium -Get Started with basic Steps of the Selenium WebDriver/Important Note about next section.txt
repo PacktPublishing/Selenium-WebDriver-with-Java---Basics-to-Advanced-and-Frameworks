@@ -1,0 +1,11 @@
+Important Note about next section
+Hey Quick Note -
+
+We shall pause our selenium discussion for a moment and go over some part of core java basics in the next section.
+
+After that we shall resume the selenium topics as usual.  I am introducing few java lectures here as these are basic fundamentals one need to understand to resume with selenium training.
+
+If you are already aware of core java basics ( Variables, Datatypes, Strings, Arrays, Arraylist, For loop,if else, Methods, objects).  -  then please feel free to skip next section and continue with Selenium topics.
+
+Good luck!
+
