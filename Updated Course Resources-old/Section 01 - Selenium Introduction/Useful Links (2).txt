@@ -1,3 +1,0 @@
-Link for Selenium official Site :
-	
-http://www.seleniumhq.org

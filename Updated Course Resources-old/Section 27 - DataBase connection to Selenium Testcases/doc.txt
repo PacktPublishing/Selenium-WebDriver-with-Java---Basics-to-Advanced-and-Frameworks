@@ -1,3 +1,0 @@
-Download mySQL officially from below link
-
-http://dev.mysql.com/downloads/

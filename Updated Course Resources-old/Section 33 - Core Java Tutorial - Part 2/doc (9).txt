@@ -1,3 +1,0 @@
-You can find more examples from below link
-
-http://www.java2novice.com/java_exception_handling_examples/finally_block/

@@ -1,3 +1,0 @@
-Below link has detailed information on how to handle SSL certification in multiple browsers
-
-http://learn-automation.com/handle-untrusted-certificate-selenium/

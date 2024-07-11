@@ -1,2 +1,0 @@
-You can find Bugzilla demo server link from below website
-https://landfill.bugzilla.org/

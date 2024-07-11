@@ -1,3 +1,0 @@
-You can learn more about TestngXML suite structure from below link
-
-http://javarticles.com/2015/02/example-of-testng-configuration-xml-testng-xml.html

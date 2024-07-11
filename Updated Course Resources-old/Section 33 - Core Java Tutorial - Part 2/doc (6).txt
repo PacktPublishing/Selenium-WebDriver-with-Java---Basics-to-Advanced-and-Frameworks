@@ -1,3 +1,0 @@
-Please go through below link which have detailed table on access modifiers
-
-http://javabeginnerstutorial.com/core-java-tutorial/access-modifier-in-java/

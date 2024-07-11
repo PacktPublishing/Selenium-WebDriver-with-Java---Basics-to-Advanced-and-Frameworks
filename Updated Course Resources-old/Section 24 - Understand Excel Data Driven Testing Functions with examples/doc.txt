@@ -1,3 +1,0 @@
-You can download Apache POI from below official link
-
-https://poi.apache.org/

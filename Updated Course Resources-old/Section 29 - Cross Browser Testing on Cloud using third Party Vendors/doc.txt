@@ -1,2 +1,0 @@
-You can learn more about Sauce labs Selenium from below link
-https://saucelabs.com/products/open-source-frameworks
