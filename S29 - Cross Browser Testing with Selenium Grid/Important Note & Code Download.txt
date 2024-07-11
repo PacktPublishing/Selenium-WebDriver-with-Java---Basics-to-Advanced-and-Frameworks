@@ -1,0 +1,8 @@
+Important Note & Code Download
+We will connect to other machines remotely to explain Grid process in this section.
+
+To bring into consistency of remote machine screen size to local machine size, I have reduced video screen dimensions slightly in this section.
+
+For best experience, please watch the videos in the full screen mode until this section is complete.
+
+You can also download the code discussed in this section including Grid Architecture Setup instructions material.

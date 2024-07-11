@@ -1,0 +1,7 @@
+/*Select dropdown=new Select(driver.findElement(By.xpath(".//*[@id='ctl00_mainContent_ddl_Adult']")));
+
+dropdown.selectByIndex(4);
+
+dropdown.selectByVisibleText("9 Adults");
+
+dropdown.selectByValue("8");*/

@@ -1,0 +1,6 @@
+code download
+Please download the code for this lecture.
+
+Resources for this lecture: 'CrossBrowserTest.zip'
+
+Before running this code repo in your local, Please  update username and accesskey in the code repo with  your Browserstack account details

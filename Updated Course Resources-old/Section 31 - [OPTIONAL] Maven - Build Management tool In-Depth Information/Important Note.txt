@@ -1,0 +1,2 @@
+Important Note
+In this Section, we will learn in Depth about Maven and different commands its support along with Maven life cycle which might help you in the interviews

@@ -1,0 +1,7 @@
+IMportant Note
+From here on, For next 2 hours, Let us focus on understanding Core java concepts.
+
+We have already discussed some Core java topics ( Variables, Datatypes, Arrays , For loop, If condition, classes methods) in Section 3. 
+
+From here on we shall continue the remaining Java topics which have not been covered in Section 3.
+

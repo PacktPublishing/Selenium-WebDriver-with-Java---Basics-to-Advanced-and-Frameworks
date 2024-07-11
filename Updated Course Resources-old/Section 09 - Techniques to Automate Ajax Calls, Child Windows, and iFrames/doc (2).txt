@@ -1,0 +1,5 @@
+HTML frames allow developers to present documents in multiple views, which may be
+independent windows or subwindows. Multiple views offer developers a way to keep certain
+information visible, while other views are scrolled or replaced. For example, within the same
+window, one frame might display a static banner, the second a navigation menu, and the third
+the main document that can be scrolled through or replaced by navigating in the second frame.

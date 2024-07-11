@@ -1,0 +1,23 @@
+package coreJava;
+
+//Arrays
+
+public class ArraysDemo {
+
+public static void main(String[] args) {// TODO Auto-generated method stub
+
+arrayListexample ab=new arrayListexample();ab.abc();ab.abc();//ab./* int a;a=4;*///- A container which stores multiple values of same data typeint a[] = new int[5];// Delcares an aray and allocates memory for the valuesa[0]= 2;a[1]=6;a[2]=1;a[3]=9;a[4]=12;//initilased values into that arrayint b[] = {1,4,3,5,7,8};for(int i=0;i<b.length;i++){System.out.println(b[i]);// retrieve values present in this array/}}
+
+}
+
+***********************************************************************************************************************************************************************************
+
+//Multi Dimensional code
+
+package coreJava;
+
+public class Multidimensional {
+
+public static void main(String[] args) {// TODO Auto-generated method stub////a[row][coloum]int a[][] = new int[2][3];a[0][0]=2;a[0][1]=4;a[0][2]=5;a[1][0]=3;a[1][1]=4;a[1][2]=7;//System.out.println(a[1][0]);/*int b[][]= {‌{2,4,5},{3,4,7},{5,2,1}};System.out.println(b[2][1]);*/for(int i=0;i<2;i++) //row{for(int j=0;j<3;j++) //coloumn{System.out.println(a[i][j]);}}}
+
+}

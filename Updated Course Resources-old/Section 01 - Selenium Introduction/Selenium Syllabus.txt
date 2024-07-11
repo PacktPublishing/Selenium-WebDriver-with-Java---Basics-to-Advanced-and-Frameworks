@@ -1,0 +1,51 @@
+Selenium Syllabus
+
+"Below are the topics list which you are going to learn from scratch in this Tutorial."
+
+Complete Core java
+
+Selenium Webdriver- Major focus (20 hours+ content explaining all concepts)
+
+Selenium 4.0 CDP Protocol Topics
+
+Selenium Grid
+
+Live projects on Selenium 
+
+Interview questions discussion with solutions
+
+TestNG
+
+Maven
+
+ANT
+
+Jenkins
+
+Log4j
+
+Real time challenges in developing framework and how to address them
+
+Extent Test Execution reports
+
+Parallel Test Execution
+
+Cucumber
+
+Data driven framework
+
+Hybrid Framework
+
+Page object Model Framework
+
+DataBase testing with Selenium
+
+Performance testing with Selenium
+
+Mobile Automation basics only!
+
+CLoud Automation with Sauce labs
+
+AutoIT- Desktop Automation integration with Selenium
+
+Bonus lecture- Bugzilla defect tool management.

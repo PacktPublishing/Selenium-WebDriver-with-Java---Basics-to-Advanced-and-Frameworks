@@ -1,0 +1,10 @@
+Note on prerequisite topics knowledge
+
+Before watching this section, please make sure you are aware of basics about GIT & Jenkins as we use these 2 topics primarly to drive CI/CD of selenium framework discussion in this section.
+
+You can find GIT basics videos in just above this section with section name as (GIT- Version Control Tutorial) and Jenkins basics videos in framework learning section with section name as
+(Framework Part 6 - Test Execution from Maven and Integration with Jenkins CI/CD)
+
+
+
+Good luck!
